@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\bord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08BACF03-9D12-588B-2230-D41DBE171490}|Assembly-CSharp.csproj|c:\\users\\lenovo\\bord\\assets\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BACF03-9D12-588B-2230-D41DBE171490}|Assembly-CSharp.csproj|solutionrelative:assets\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BACF03-9D12-588B-2230-D41DBE171490}|Assembly-CSharp.csproj|c:\\users\\lenovo\\bord\\assets\\spawnnnnnnnnnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BACF03-9D12-588B-2230-D41DBE171490}|Assembly-CSharp.csproj|solutionrelative:assets\\spawnnnnnnnnnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BACF03-9D12-588B-2230-D41DBE171490}|Assembly-CSharp.csproj|C:\\Users\\lenovo\\bord\\assets\\pipemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BACF03-9D12-588B-2230-D41DBE171490}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BACF03-9D12-588B-2230-D41DBE171490}|Assembly-CSharp.csproj|C:\\Users\\lenovo\\bord\\assets\\bordscrtipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BACF03-9D12-588B-2230-D41DBE171490}|Assembly-CSharp.csproj|solutionrelative:assets\\bordscrtipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\bord\\Assets\\Logic.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic.cs",
+              "ToolTip": "C:\\Users\\lenovo\\bord\\Assets\\Logic.cs",
+              "RelativeToolTip": "Assets\\Logic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:48:22.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spawnnnnnnnnnn.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\bord\\Assets\\Spawnnnnnnnnnn.cs",
+              "RelativeDocumentMoniker": "Assets\\Spawnnnnnnnnnn.cs",
+              "ToolTip": "C:\\Users\\lenovo\\bord\\Assets\\Spawnnnnnnnnnn.cs",
+              "RelativeToolTip": "Assets\\Spawnnnnnnnnnn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:52:46.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeMover.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\bord\\Assets\\PipeMover.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMover.cs",
+              "ToolTip": "C:\\Users\\lenovo\\bord\\Assets\\PipeMover.cs",
+              "RelativeToolTip": "Assets\\PipeMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:37:16.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bordscrtipt.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\bord\\Assets\\bordscrtipt.cs",
+              "RelativeDocumentMoniker": "Assets\\bordscrtipt.cs",
+              "ToolTip": "C:\\Users\\lenovo\\bord\\Assets\\bordscrtipt.cs",
+              "RelativeToolTip": "Assets\\bordscrtipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:31:05.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
